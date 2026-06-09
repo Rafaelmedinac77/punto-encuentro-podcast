@@ -1,0 +1,1 @@
+export default function Contact() { return <main className="page narrow"><h1>Contacto</h1><p>Para entrevistas, colaboraciones o comunidad, deja tus datos.</p><form className="contact-form"><input placeholder="Nombre"/><input placeholder="Correo"/><textarea placeholder="Mensaje"/><button className="gold-btn">Enviar mensaje</button></form></main>; }

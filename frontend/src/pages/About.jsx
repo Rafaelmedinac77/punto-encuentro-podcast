@@ -1,0 +1,1 @@
+export default function About() { return <main className="page narrow"><h1>Sobre Santiago Gil Martín</h1><p>Punto de Encuentro nace para abrir conversaciones auténticas sobre fe, propósito, transformación personal y vida práctica.</p><p>Esta sección debe construirse con una fotografía real de Santiago, su historia, misión y el propósito del podcast.</p></main>; }
